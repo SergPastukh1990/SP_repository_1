@@ -1,0 +1,5 @@
+answer1=input ('Hi! What is your name?')
+print('Hello,' + answer1)
+answer2=input ('How old are you?')
+print('Your name - ' + answer1 + ', your age - ' + answer2)
+print('You are lucky Guy!')
